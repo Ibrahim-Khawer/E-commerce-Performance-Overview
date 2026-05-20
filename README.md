@@ -6,7 +6,10 @@ E-commerce businesses need to understand customer shopping patterns to optimize 
 ## Project Details
 - **Dataset**: [Customer Shopping Behavior](https://github.com/Ibrahim-Khawer/E-commerce-Performance-Overview/blob/main/customer_shopping_behavior.csv) - 3,900 transactions, 18 features
 - **Tools**: Python (Pandas, Matplotlib), Power BI
-- **Dashboard**: [View Interactive Dashboard](https://raw.githubusercontent.com/Ibrahim-Khawer/E-commerce-Performance-Overview/main/E-commerce%20Performance%20Overview.pdf)
+- ## Executive Dashboard
+Interactive insights into Sales, Customer Behavior, and Product Performance.
+
+![E-commerce Dashboard](https://raw.githubusercontent.com/Ibrahim-Khawer/E-commerce-Performance-Overview/main/ecommerce_pic.png)
 
 ## Data Preparation
 - **Data Cleaning**: Handled missing review ratings using median imputation
